@@ -1,5 +1,4 @@
 # hello-world
-Tutorial for Github...
 
 Everybody! 
 I know you can believe in yourself!
